@@ -2,20 +2,21 @@ Following are the columns contained in the dataset.
 ---------------------------------------------------
 
 **Column 1: Activity**  
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+Can take one of hte following 6 values  
+WALKING  
+WALKING_UPSTAIRS  
+WALKING_DOWNSTAIRS  
+SITTING  
+STANDING  
+LAYING  
 
 **Column 2: Subject**  
-1 through 30 indicating the subject from whom the observations were drawn
+Contains values 1 through 30 indicating the subject for whom the observations were drawn
 
 **Columns 3 through 48 and 56 through 88**  
 
 The names of these columns are given below.  
-The column names have been coded in the following way  
+The column names have been coded in the following way:  
 1. The first letter is either 't' or 'f' and this indicates the measurement being in the time or frequency domain respectively.  
 2. The word following the first letter indicates body or gravity acceleration signals. Ex. "tBodyAcc-mean()-X", "tGravityAcc-mean()-X"  
 3. 'Gyro' indicates gyroscope measurements, 'Acc' indicates acceleration, 'Jerk' indicates jerk signals  
