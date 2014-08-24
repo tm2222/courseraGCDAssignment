@@ -2,7 +2,7 @@ Following are the columns contained in the dataset.
 ---------------------------------------------------
 
 **Column 1: Activity**  
-Can take one of hte following 6 values  
+Can take one of the following 6 values  
 WALKING  
 WALKING_UPSTAIRS  
 WALKING_DOWNSTAIRS  
